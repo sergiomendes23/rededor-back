@@ -1,7 +1,7 @@
 # Sobre o Projeto
 
 O PesquisaD'or é uma aplicação full stack de pesquisa de CPF. <br>
-Ao digitar um CEP existe ela retorna o CEP, Estado, Cidade, Bairro e Rua. <br>
+Ao digitar um CEP existente ela retorna o CEP, Estado, Cidade, Bairro e Rua. <br>
 Em caso de CEP inexistente ela retorna o Status.
 
 ## Layout Web
