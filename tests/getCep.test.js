@@ -17,13 +17,6 @@ describe("GET /:CEP", () => {
         expect(body.status).toBe(200)
     });
 
-    // it.only('Should return status 404 when the zip code is not found', async () => {
-    //     const cep = '25015-101'
-    //     const {status} = await agent.get(`/${cep}`)
-    //     console.log("body 2", status.data)
-    //     expect(status).toBe(404)
-    // });
-
     it('Should return status 422 when the zip code is written incorrectly', async () => {
         const cep = '2.50100'
         const {status} = await agent.get(`/${cep}`)
