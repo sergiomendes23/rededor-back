@@ -30,7 +30,7 @@ Banco de dados - NoSQL
 
 Testes Unitários
 
--Jest
+- Jest
 - Spertest
 
 ## Autor
