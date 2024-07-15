@@ -24,7 +24,7 @@ Em caso de CEP inexistente ela retorna o Status.
 - Joi
 - Nodemon
   
-Banco de dados NoSQL
+Banco de dados - NoSQL
 
 - Redis
 
