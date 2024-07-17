@@ -6,11 +6,23 @@ Em caso de CEP inexistente ela retorna o Status.
 
 ## Layout Web
 
+- Página inicial
+
 ![Web 1](https://github.com/sergiomendes23/rededor-front/blob/main/src/Assets/Images/web1.png)
+
+- CEP existente digitado.
 
 ![Web 2](https://github.com/sergiomendes23/rededor-front/blob/main/src/Assets/Images/web2.png)
 
+- Retorno de dados do CEP.
+
 ![Web 3](https://github.com/sergiomendes23/rededor-front/blob/main/src/Assets/Images/web-3.png)
+
+- CEP inexistente digitado.
+
+![Web 5](https://github.com/sergiomendes23/rededor-front/blob/main/src/Assets/Images/web5.png)
+
+- Retorno de status do CEP inexistente.
 
 ![Web 4](https://github.com/sergiomendes23/rededor-front/blob/main/src/Assets/Images/web4.png)
 
